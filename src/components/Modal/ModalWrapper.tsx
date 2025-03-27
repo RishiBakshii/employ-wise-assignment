@@ -1,7 +1,7 @@
 import { selectIsDeleteFormOpen, selectIsEditFormOpen, setIsDeleteFormOpen, setIsEditFormOpen } from "../../lib/redux/slices/uiSlice";
 import { useAppDispatch, useAppSelector } from "../../lib/redux/store/hooks";
-import { DeleteUserDialog } from "../dialogs/deleteUserDialog";
-import { EditUserForm } from "../forms/editUserForm";
+import { DeleteUserDialog } from "../dialogs/DeleteUserDialog";
+import { EditUserForm } from "../forms/EditUserForm";
 import { Modal } from "./Modal";
 
 export const ModalWrapper = () => {
