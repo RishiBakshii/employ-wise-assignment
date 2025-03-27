@@ -1,3 +1,9 @@
+## 🔑 Login Credentials
+
+Use the following credentials to log in:  
+- **Email**: `eve.holt@reqres.in`  
+- **Password**: `cityslicka`  
+
 ## 🚀 Getting Started  
 
 Follow the steps below to set up and run this project on your local machine.  
